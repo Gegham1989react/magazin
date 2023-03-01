@@ -140,6 +140,7 @@ text-transform: uppercase;
     height: 100px;
     object-fit: contain;
     padding: 10px;
+    padding:10px;
 }
 .detail-box{
     display: grid;
